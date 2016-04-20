@@ -1,0 +1,28 @@
+name: Hilo
+favicon: null
+layout_spectrum: 0.2564576263539493
+typography_spectrum: 0.14556649513542652
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.4017704529687762
+  lightness: 0.843448024475947
+  saturation: 0.4207126775290817
+  rhythmicContrast: 0.4543730076402426
+purpose: []
