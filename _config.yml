@@ -1,28 +1,40 @@
-name: Hilo
 favicon: null
-layout_spectrum: 0.2564576263539493
-typography_spectrum: 0.14556649513542652
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: Hilo
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.4207127
+  brandStrength: 0.4017704529687762
+  lightness: 0.7526882
   brandColors:
     - '#71A7FE'
     - '#399AE7'
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.4017704529687762
-  lightness: 0.843448024475947
-  saturation: 0.4207126775290817
-  rhythmicContrast: 0.4543730076402426
-purpose: []
+  rhythmicContrast: 0.454373
+typography_spectrum: 0.1455664951354265
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.2564576263539493
+analytics:
+  twitter: null
+  google: null
+  facebook: null
